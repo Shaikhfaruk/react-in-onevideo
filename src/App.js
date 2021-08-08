@@ -1,7 +1,7 @@
 // import "./App.css";
-// import UseState from "./Components/hooks/UseState";
-// import UseEffect from "./Components/hooks/UseEffect";
-// import Resturant from "./Projects/resturant/Resturant";
+import UseState from "./Components/hooks/UseState";
+import UseEffect from "./Components/hooks/UseEffect";
+import Resturant from "./Projects/resturant/Resturant";
 import UseReducer from "./Components/hooks/UseReducer";
 import Todo from "./Components/todoReact/Todo";
 
